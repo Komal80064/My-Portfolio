@@ -101,10 +101,10 @@ Home Page	About Page	Projects Page
 
 If you’d like to collaborate or have any questions — reach out!
 
-📧 Email: your-email@gmail.com
+📧 Email: panwarkomal2003@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
-🌍 Portfolio: (live link once deployed)
+💼 LinkedIn: https://www.linkedin.com/in/komal-panwar-a24754270
+🌍 Portfolio: (https://my-portfolio-komal.vercel.app/)
 
 ⭐ If you like this project, consider giving it a star on GitHub!
 ⭐ Star this repo
