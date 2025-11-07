@@ -14,8 +14,8 @@ const projects = [
     title: "Portfolio Website",
     tech: "React, Tailwind CSS",
     img: portfolio,
-    github: "https://github.com/",
-    demo: "https://example.com/",
+    github: "https://github.com/Komal80064/My-Portfolio.git",
+    demo: "https://my-portfolio-komal.vercel.app/",
   },
   {
     title: "Weather Forecast App",
