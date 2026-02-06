@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-4xl mx-auto text-center">
 
         {/* Branding / Name */}
-        <h2 className="text-2xl font-semibold bg-gradient-to-r from-teal-400 to-purple-500 text-transparent bg-clip-text">
+        <h2 className="text-2xl font-semibold bg-linear-to-r from-teal-400 to-purple-500 text-transparent bg-clip-text">
           Komal Panwar
         </h2>
         <p className="mt-2 text-gray-400">

@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         
         {/* LOGO */}
-        <h1 className="text-3xl font-bold bg-gradient-to-r from-teal-400 to-purple-500 bg-clip-text text-transparent cursor-pointer">
+        <h1 className="text-3xl font-bold bg-linear-to-r from-teal-400 to-purple-500 bg-clip-text text-transparent cursor-pointer">
           Komal Codes
         </h1>
 

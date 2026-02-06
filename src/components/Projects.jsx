@@ -1,14 +1,15 @@
 import React from "react";
 import weatherImg from "../assets/weatherapp.png";
 import portfolio from "../assets/portfolio.png";
+import instantTalk from "../assets/instantTalk.png";
 
 const projects = [
   {
-    title: "E-Commerce Website",
-    tech: "React, Redux, Node, MongoDB",
-    img: "https://source.unsplash.com/600x400/?ecommerce,website",
-    github: "https://github.com/",
-    demo: "https://example.com/",
+    title: "InstantTalk",
+    tech: "React, Express, Node, MongoDB",
+    img: instantTalk,
+    github: "https://github.com/Komal80064/InstantTalk",
+    demo: " https://instanttalk-9vrv.onrender.com/",
   },
   {
     title: "Portfolio Website",
@@ -18,18 +19,18 @@ const projects = [
     demo: "https://my-portfolio-komal.vercel.app/",
   },
   {
-    title: "Weather Forecast App",
+    title: "DailyWeather",
     tech: "React, API Integration",
     img: weatherImg,
     github: "https://github.com/Komal80064/Weather-App.git",
-    demo: "https://example.com/",
+    demo: "https://weather-app-komal.vercel.app/",
   },
 ];
 
 const Projects = () => {
   return (
         <section id="projects" className="min-h-screen bg-gray-950 text-white pt-15 px-6">
-        <h2 className="text-5xl font-extrabold text-center mb-5 pb-10 bg-gradient-to-r from-teal-400 to-purple-500 text-transparent bg-clip-text drop-shadow-lg">
+        <h2 className="text-5xl font-extrabold text-center mb-5 pb-10 bg-linear-to-r from-teal-400 to-purple-500 text-transparent bg-clip-text drop-shadow-lg">
              My Projects
         </h2>
 

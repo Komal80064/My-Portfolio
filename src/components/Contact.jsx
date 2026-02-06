@@ -33,10 +33,10 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="min-h-screen bg-gray-950 text-white text-white flex items-center justify-center px-4 py-3"
+      className="min-h-screen bg-gray-950  text-white flex items-center justify-center px-4 py-3"
     >
       <div className="max-w-xl w-full bg-white/10 backdrop-blur-lg p-4 rounded-2xl shadow-lg border border-white/20">
-        <h2 className="text-5xl font-bold text-center mb-6 bg-gradient-to-r from-teal-400 to-purple-500 bg-clip-text text-transparent">
+        <h2 className="text-5xl font-bold text-center mb-6 bg-linear-to-r from-teal-400 to-purple-500 bg-clip-text text-transparent">
           Contact Me
         </h2>
 
@@ -72,7 +72,7 @@ const Contact = () => {
           <button
             type="submit"
             disabled={loading}
-            className={`px-6 py-3 w-full rounded-lg transition-all duration-300 bg-gradient-to-r from-teal-400 to-purple-500 hover:scale-105 text-black font-semibold ${
+            className={`px-6 py-3 w-full rounded-lg transition-all duration-300 bg-linear-to-r from-teal-400 to-purple-500 hover:scale-105 text-black font-semibold ${
               loading ? "opacity-50 cursor-not-allowed" : ""
             }`}
           >
